@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body {
+    font-family: 'Inter';
+}
+
+.btn-primary {
+    background-color : #1A3372;
+    border-color: #1A3372;
+}
+
+/* Hero Section */
+#hero-section {
+    background-image: url(/assets/image/hero-background.png);
+    height: 100vh;
+}
+
+.navbar-brand {
+    color: #FFFFFF;
+}
+
+.logo-navbar {
+    font-family: 'Roboto';
+    font-size: 24px;
+}
+
+.nav-link {
+    color: #FFFFFF;
+}
+
+/* About Us Section */
+#aboutus-section {
+    background-color: #FFFFFF;
+}
+
+.tagline {
+    font-family: 'Russo One';
+    font-size: 3.2rem;
+}
+
+/* Vision Section */
+#vision-section {
+    background-image: url(/assets/image/aboutus-background.png);
+}
+
+.vision {
+    font-family: 'Russo One';
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    width: 50%;
+}
+
+/* Why Us Section */
+.title-whyus {
+    font-family: 'Russo One';
+}
+
+.title-service {
+    font-family: 'Russo One';
+    color: #1A3372;
+}
+
+.desc-service {
+    width: 90%;
+    color: #1A3372;
+}
+
+/* End to End Section */
+#endtoend-section {
+    background-color: #1A3372;
+}
+
+.title-endtoend {
+    font-family: 'Russo One';
+    color: #FFFFFF
+}
+
+.desc-endtoend {
+    font-family: 'Roboto';
+    color: #FFFFFF;
+}
+
+/* Portofolio */
+.title-portofolio {
+    font-family: 'Russo One';
+    color: #1A3372;
+}
+
+.box-portofolio {
+    width: 90%;
+    border: 1px solid #1A3372;
+}
+
+.sub-portofolio {
+    font-weight: 700;
+    color: #1A3372;
+}
+
+.list-sub-portofolio {
+    color: #1A3372;
+}
+
+/* Footer Section */
+#footer-section {
+    background-color: #1A3372;
+}
+
+.footer-menu {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-menu:hover {
+    color: #000000;
+}
+
+.footer-line {
+    color: #FFFFFF;
+}
+
+.copyrigth-text {
+    color: #FFFFFF;
+}
+
+.copyrigth-menu {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.copyrigth-menu:hover {
+    color: #000000;
+    text-decoration: underline;
+}
