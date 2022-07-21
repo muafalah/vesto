@@ -12,7 +12,7 @@ body {
 }
 
 /* Hero Section */
-#hero-section {
+.hero-background {
     background-image: url("assets/image/hero-background.png") !important;
     height: 100vh;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 /* Vision Section */
-#vision-section {
+.vision-background {
     background-image: url("assets/image/aboutus-background.png") !important;
 }
 
